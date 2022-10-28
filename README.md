@@ -1,7 +1,8 @@
-# MPD (Python 3 Implementation)
+# MPD
 
 ## Introduction
 
+* Python 3 Implementation
 * This is the demo for paper _MPD: Moving Target Defense through Communication Protocol Dialects_
 * Implemented moving target defense using protocol dialects for FTP
 * This prototype is designed for **get**, yet can be easily extend to other commands.
