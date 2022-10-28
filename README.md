@@ -19,7 +19,8 @@ python server.py PORT_NUMBER
 ```shell
 python client.py SERVER_IP SERVER_PORT_NUMBER
 ```
-  * Username and password are provided in _users.txt_
+
+* Username and password are provided in _users.txt_
 
 * **ServerFolder** and **ClientFolder** store server and clients files
 
