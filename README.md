@@ -22,7 +22,7 @@ python client.py SERVER_IP SERVER_PORT_NUMBER
 
 * Username and password are provided in _users.txt_
 
-* **ServerFolder** and **ClientFolder** store server and clients files
+* _ServerFolder_ and _ClientFolder_ store the server and client files
 
 
 ## Citing MPD
