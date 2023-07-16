@@ -2,10 +2,9 @@
 
 ## Introduction
 
-* Python 3 Implementation
-* This is the demo for paper _MPD: Moving Target Defense through Communication Protocol Dialects_
-* Implemented the moving target defense using protocol dialects for FTP
-* This prototype is designed for **get**, yet can be easily extended to other commands.
+* This is the demo for paper [*MPD: Moving Target Defense through Communication Protocol Dialects*](https://arxiv.org/abs/2110.03798)
+* Implemented the moving target defense using protocol dialects for file transfer protocol (FTP) in Python 3.
+* This prototype is designed for **get**, yet it can be easily extended to other FTP commands.
 
 
 ## Instructions
@@ -22,12 +21,12 @@ python client.py SERVER_IP SERVER_PORT_NUMBER
 
 * Username and password are provided in _users.txt_
 
-* _ServerFolder_ and _ClientFolder_ store the server and client files
+* *ServerFolder* and *ClientFolder* store the server and client files
 
 
 ## Citing MPD
 
-If you use MPD in your research, please cite the [MPD paper](https://arxiv.org/abs/2110.03798).
+If you are using MPD in your research, please cite our paper.
 
 *Mei, Y., Gogineni, K., Lan, T., & Venkataramani, G. (2021, September). MPD: Moving target defense through communication protocol dialects. In International Conference on Security and Privacy in Communication Systems (pp. 100-119). Springer, Cham.*
 
